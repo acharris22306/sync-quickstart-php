@@ -2,7 +2,7 @@
 
 namespace Twilio\Auth;
 
-class ConversationsGrant implements Twilio\Auth\Grant
+class ConversationsGrant implements Grant
 {
     private $configurationProfileSid;
     /**
